@@ -37,4 +37,4 @@ Widespread localized electronic warfare, tactical GPS spoofing, and signal jammi
 
 ---
 
-_💡 Operational Notice: This ledger is maintained manually by Network Admins. For real-time user-to-user chat updates, technical troubleshooting, and live ping diagnostic reports from fellow nodes behind the firewall, pull our direct invite to join our Discord Core: https://discord.gg_
+_💡 Operational Notice: This ledger is maintained manually by Network Admins. For real-time user-to-user chat updates, technical troubleshooting, and live ping diagnostic reports from fellow nodes behind the firewall, pull our direct invite to join our Discord Core:_ [Server](https://discord.gg/TvzXT8Eyzr)
