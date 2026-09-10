@@ -22,9 +22,9 @@ To track active firewall fingerprinting behaviors, network latency benchmarks, a
 
 Hosseinzadeh Net is fully optimized for next-generation, open-source routing frameworks. Ensure your core applications are fully updated to properly parse our anti-DPI configurations:
 
-*   **Android:** [v2rayNG](https://github.com) / [NekoBox for Android](https://github.com) / [Sing-Box](https://github.com)
-*   **Windows / PC:** [v2rayN](https://github.com) / [NekoBox for Windows](https://github.com) / [Hiddify Next](https://github.com)
-*   **iOS / Apple:** [FoXray](https://apple.com) / [Sing-Box](https://apple.com) / [Streisand](https://apple.com)
+*   **Android:** v2rayNG / NekoBox for Android / Sing-Box
+*   **Windows / PC:** v2rayN / NekoBox for Windows / Hiddify Next
+*   **iOS / Apple:** FoXray/ Sing-Box / Streisand
 
 ---
 
