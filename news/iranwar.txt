@@ -16,7 +16,7 @@ Widespread localized electronic warfare, tactical GPS spoofing, and signal jammi
 
 ## 📊 Live Financial Ticker & Open Market Indicators
 
-*   **US Dollar (USD) Free Market Exchange Rate:** [INSERT_DAILY_TOMAN_RATE] Tomans
+*   **US Dollar (USD) Free Market Exchange Rate:** 233000 Tomans
 *   **National Currency Trend:** Historic Depreciation / High Volatility
 *   **Correlation Matrix:** Sharp currency fluctuations directly trigger active-probing routines on domestic telecom gateways as market data demands peak.
 
